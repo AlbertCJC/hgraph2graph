@@ -21,7 +21,7 @@ conda install -c rdkit rdkit
 conda install pytorch cudatoolkit=11.3 -c pytorch
 
 # Install supporting libraries
-pip install scikit-learn pandas matplotlib networkx tqdm
+pip install scikit-learn pandas matplotlib networkx tqdm requests
 
 
 Workflow Summary
